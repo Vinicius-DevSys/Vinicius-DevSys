@@ -1,5 +1,7 @@
 # Vinicius-DevSys - Seja bem vindo ao meu peril.👋
 
+<img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/obs.png" width="60" alt="Descrição da imagem">
+
 <!--
 **Vinicius-DevSys/Vinicius-DevSys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
