@@ -1,5 +1,8 @@
 # Vinicius-DevSys - Seja bem vindo ao meu peril.👋
-
+Trabalho na area da educação sou apaixonado por estudos das mais diversas tecologia e explorar as possibilidades que cada uma tem a me oferecer e de integrarem.
+## Sobre os meus projetos.
+Prefiro criar ferramentas e desenvolver exemplos praticos e funcionais para ajudar alunos e outros desenvolvedores que estão precisando de alguma referencia.
+Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois não pretendo atuar com isso
 <div>
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/obs.png" width="60" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/libre_office_logo.png" width="60" alt="Descrição da imagem">
