@@ -1,7 +1,11 @@
 # Vinicius-DevSys - Seja bem vindo ao meu peril.👋
 
+<div>
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/obs.png" width="60" alt="Descrição da imagem">
-
+<img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/libre_office_logo.png" width="60" alt="Descrição da imagem">
+<img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/git.png" width="60" alt="Descrição da imagem">
+<img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/7-Zip.png" width="60" alt="Descrição da imagem">
+</div>
 <!--
 **Vinicius-DevSys/Vinicius-DevSys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
