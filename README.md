@@ -11,6 +11,7 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/tux.png" width="50" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/sql.png" width="45" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/python.png" width="60" alt="Descrição da imagem">
+<img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/bash.png" width="60" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/git.png" width="60" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/debian.png" width="60" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/manjaro.png" width="58" alt="Descrição da imagem">
