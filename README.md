@@ -22,8 +22,8 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/gimp.png" width="60" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/kdenlive.png" width="60" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/vlc.png" width="50" alt="Descrição da imagem">
-<img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/7-Zip.png" width="60" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/digikam.png" width="60" alt="Descrição da imagem">
+<img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/7-Zip.png" width="60" alt="Descrição da imagem">
 </div>
 <!--
 **Vinicius-DevSys/Vinicius-DevSys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
