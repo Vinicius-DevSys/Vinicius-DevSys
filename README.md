@@ -6,7 +6,7 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 ## Tecnologias favoritas.
 <div>
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/windows.png" width="55" alt="Descrição da imagem">
-<img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/tux.png" width="60" alt="Descrição da imagem">
+<img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/tux.png" width="55" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/python.png" width="55" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/sql.png" width="45" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/obs.png" width="60" alt="Descrição da imagem">
