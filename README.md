@@ -17,7 +17,7 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/manjaro.png" width="58" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/ssh.png" width="60" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/rufus.png" width="60" alt="Descrição da imagem">
-<img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/balenaetcher.png" width="60" alt="Descrição da imagem">
+<img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/balenaetcher.png" width="55" alt="Descrição da imagem">
 
 ## Tecnologias secundarias.
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/firefox.png" width="60" alt="Descrição da imagem">
