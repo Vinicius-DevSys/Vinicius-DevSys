@@ -13,8 +13,8 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 
 ## Experiencias.
 #### Professor de tecnologia 
-- Presencial 2 anos (PJ)
-- Professor EAD - 6 meses
+- Presencial 2 anos (PJ).
+- Professor EAD - 6 meses (Autonomo).
 - Participei de uma GameJam.
 
 ## Principais tecnologias favoritas.
