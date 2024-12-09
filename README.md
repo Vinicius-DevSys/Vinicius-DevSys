@@ -12,8 +12,9 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 - 2 Cursinhos da Fundação Bradesco
 
 ## Experiencias.
-- Professor presencial - 2 anos (PJ)
-- Professor EAD - 6 meses anos (Autonomo)
+#### Professor de tecnologia 
+- Presencial 2 anos (PJ)
+- Professor EAD - 6 meses
 - Participei de uma GameJam.
 
 ## Principais tecnologias favoritas.
