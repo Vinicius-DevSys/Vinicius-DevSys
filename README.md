@@ -6,8 +6,8 @@ Prefiro criar ferramentas e desenvolver exemplos praticos e funcionais para ajud
 Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois não pretendo atuar com isso.
 
 ## Experiencias.
-- professor presencial - 2 anos (PJ)
-- professor EAD - 6 meses anos (Autonomo)
+- Professor presencial - 2 anos (PJ)
+- Professor EAD - 6 meses anos (Autonomo)
 
 
 ## Principais tecnologias favoritas.
