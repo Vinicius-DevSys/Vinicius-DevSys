@@ -5,6 +5,11 @@ Trabalho na area da educação sou apaixonado por estudos das mais diversas teco
 Prefiro criar ferramentas e desenvolver exemplos praticos e funcionais para ajudar alunos e outros desenvolvedores que estão precisando de alguma referencia.
 Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois não pretendo atuar com isso.
 
+## Experiencias.
+- professor presencial - 2 anos (PJ)
+- professor EAD - 6 meses anos (Autonomo)
+
+
 ## Principais tecnologias favoritas.
 <div>
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/windows.png" width="55" alt="Descrição da imagem">
