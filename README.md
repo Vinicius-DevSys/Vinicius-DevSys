@@ -5,6 +5,11 @@ Trabalho na area da educação sou apaixonado por estudos das mais diversas teco
 Prefiro criar ferramentas e desenvolver exemplos praticos e funcionais para ajudar alunos e outros desenvolvedores que estão precisando de alguma referencia.
 Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois não pretendo atuar com isso.
 
+## Conhecimentos.
+- Cursando Ensino superior no Senac - Analise e Desenvolvimento de Sistemas
+- 3 Cursos da Cisco
+- 2 Cursinhos da Fundação Bradesco
+
 ## Experiencias.
 - Professor presencial - 2 anos (PJ)
 - Professor EAD - 6 meses anos (Autonomo)
