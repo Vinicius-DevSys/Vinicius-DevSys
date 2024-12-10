@@ -32,7 +32,7 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/7-Zip.png" width="60" alt="Descrição da imagem">
 </div>
 
-## Conhecimentos.
+## Formações.
 - Cursando Ensino superior no Senac - Analise e Desenvolvimento de Sistemas
 - Ensino Medio completo
 - 3 Cursos da Cisco
@@ -44,10 +44,11 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 - Professor EAD - 6 meses (Autonomo).
 - Participei de uma GameJam.
 
-## Habilidades
+## Conhecimentos
 - Python (Avançado)
 - SQLite (Basico)
 - Bash (Basico)
+- Redes (Basico)
 - Ingles (Basico)
 
 <!--
