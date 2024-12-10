@@ -45,9 +45,10 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 - Participei de uma GameJam.
 
 ## Habilidades
-- Python
-- Bash
-- Ingles Basico
+- Python (Avançado)
+- SQLite (Basico)
+- Bash (Basico)
+- Ingles (Basico)
 
 <!--
 ## Principais tecnologias favoritas.
