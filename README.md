@@ -34,17 +34,17 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 - Cursando Ensino superior no Senac - Analise e Desenvolvimento de Sistemas
 - Ensino Medio - completo
 
-## Experiencias.
-#### Professor de tecnologia 
-- Presencial 2 anos (PJ).
-- Professor EAD - 6 meses (Autonomo).
-
 ## Conhecimentos
 - Python (Avançado)
 - SQLite (Basico)
 - Bash (Basico)
 - Redes (Basico)
 - Ingles (Basico)
+
+## Experiencias.
+#### Professor de tecnologia 
+- Presencial 2 anos (PJ).
+- Professor EAD - 6 meses (Autonomo).
 
 <!--- 3 Cursos da Cisco
 - 2 Cursinhos da Fundação Bradesco-->
