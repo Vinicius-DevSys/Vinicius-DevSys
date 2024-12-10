@@ -14,6 +14,13 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 - Presencial 2 anos (PJ).
 - Professor EAD - 6 meses (Autonomo).
 
+## Conhecimentos
+- Python (Avançado)
+- SQLite (Basico)
+- Bash (Basico)
+- Redes (Basico)
+- Ingles (Basico)
+
 ## Principais tecnologias favoritas.
 <div>
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/windows.png" width="55" alt="Descrição da imagem">
@@ -40,13 +47,6 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/kde connect.png" width="35" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/7-Zip.png" width="60" alt="Descrição da imagem">
 </div>
-
-## Conhecimentos
-- Python (Avançado)
-- SQLite (Basico)
-- Bash (Basico)
-- Redes (Basico)
-- Ingles (Basico)
 
 <!--
 ## Principais tecnologias favoritas.
