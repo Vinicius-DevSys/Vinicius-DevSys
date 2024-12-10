@@ -33,8 +33,6 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 ## Formações.
 - Cursando Ensino superior no Senac - Analise e Desenvolvimento de Sistemas
 - Ensino Medio - completo
-- 3 Cursos da Cisco
-- 2 Cursinhos da Fundação Bradesco
 
 ## Experiencias.
 #### Professor de tecnologia 
@@ -47,6 +45,9 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 - Bash (Basico)
 - Redes (Basico)
 - Ingles (Basico)
+
+<!--- 3 Cursos da Cisco
+- 2 Cursinhos da Fundação Bradesco-->
 
 <!--
 ## Principais tecnologias favoritas.
