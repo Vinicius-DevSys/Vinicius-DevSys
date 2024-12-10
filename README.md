@@ -1,7 +1,7 @@
 # Vinicius-DevSys - Seja bem vindo ao meu peril.👋
 Trabalho na area da educação sou apaixonado por estudos das mais diversas tecologia e explorar as possibilidades que cada uma tem a me oferecer e de se integrarem.
 
-## Sobre os meus projetos.
+<!-- ## Sobre os meus projetos.-->
 Prefiro criar ferramentas e desenvolver exemplos praticos e funcionais para ajudar alunos e outros desenvolvedores que estão precisando de alguma referencia.
 Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois não pretendo atuar com isso.
 
