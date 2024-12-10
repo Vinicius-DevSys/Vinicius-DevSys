@@ -44,6 +44,11 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 - Professor EAD - 6 meses (Autonomo).
 - Participei de uma GameJam.
 
+## Habilidades
+- Python
+- Bash
+- Ingles Basico
+
 <!--
 ## Principais tecnologias favoritas.
 <div>
