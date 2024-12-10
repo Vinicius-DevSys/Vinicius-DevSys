@@ -34,7 +34,7 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 
 ## Formações.
 - Cursando Ensino superior no Senac - Analise e Desenvolvimento de Sistemas
-- Ensino Medio completo
+- Ensino Medio - completo
 - 3 Cursos da Cisco
 - 2 Cursinhos da Fundação Bradesco
 
@@ -42,8 +42,9 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 #### Professor de tecnologia 
 - Presencial 2 anos (PJ).
 - Professor EAD - 6 meses (Autonomo).
-- Participei de uma GameJam.
-
+#### Canal no Youtube.
+#### Participei de uma GameJam.
+- Touhou fan game Jam
 ## Conhecimentos
 - Python (Avançado)
 - SQLite (Basico)
