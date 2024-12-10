@@ -9,6 +9,11 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 - 3 Cursos da Cisco
 - 2 Cursinhos da Fundação Bradesco
 
+## Experiencias.
+#### Professor de tecnologia 
+- Presencial 2 anos (PJ).
+- Professor EAD - 6 meses (Autonomo).
+
 ## Principais tecnologias favoritas.
 <div>
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/windows.png" width="55" alt="Descrição da imagem">
@@ -36,13 +41,6 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/7-Zip.png" width="60" alt="Descrição da imagem">
 </div>
 
-## Experiencias.
-#### Professor de tecnologia 
-- Presencial 2 anos (PJ).
-- Professor EAD - 6 meses (Autonomo).
-#### Canal no Youtube.
-#### Participei de uma GameJam.
-- Touhou fan game Jam
 ## Conhecimentos
 - Python (Avançado)
 - SQLite (Basico)
