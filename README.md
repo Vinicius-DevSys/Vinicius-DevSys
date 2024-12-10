@@ -34,8 +34,8 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 
 ## Conhecimentos.
 - Cursando Ensino superior no Senac - Analise e Desenvolvimento de Sistemas
-- 3 Cursos da Cisco
 - Ensino Medio completo
+- 3 Cursos da Cisco
 - 2 Cursinhos da Fundação Bradesco
 
 ## Experiencias.
