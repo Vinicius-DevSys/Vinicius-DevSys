@@ -42,10 +42,10 @@ Trabalho na área da educação, sou apaixonado por estudos das mais diversas te
 
 ## Conhecimentos.
 - Python (Avançado)
-- SQLite (Basico)
-- Bash (Basico)
-- Redes (Basico)
-- Inglês (Basico)
+- SQLite (Intermediário)
+- Bash (Intermediário)
+- Redes (Intermediário)
+- Inglês (Intermediário)
 
 <!--- 3 Cursos da Cisco
 - 2 Cursinhos da Fundação Bradesco-->
