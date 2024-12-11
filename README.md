@@ -1,8 +1,4 @@
 # Vinicius-DevSys - Seja bem vindo ao meu peril.👋
-Trabalho na area da educação sou apaixonado por estudos das mais diversas tecologia e explorar as possibilidades que cada uma tem a me oferecer e de se integrarem.
-Prefiro criar ferramentas e desenvolver exemplos praticos e funcionais para ajudar alunos e outros desenvolvedores que estão precisando de alguma referencia.
-Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois não pretendo atuar com isso. <!-- ## Sobre os meus projetos.-->
-
 ## Principais tecnologias favoritas.
 <div>
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/windows.png" width="55" alt="Descrição da imagem">
@@ -29,6 +25,10 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/kde connect.png" width="35" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/7-Zip.png" width="60" alt="Descrição da imagem">
 </div>
+
+Trabalho na area da educação sou apaixonado por estudos das mais diversas tecologia e explorar as possibilidades que cada uma tem a me oferecer e de se integrarem.
+Prefiro criar ferramentas e desenvolver exemplos praticos e funcionais para ajudar alunos e outros desenvolvedores que estão precisando de alguma referencia.
+Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois não pretendo atuar com isso. <!-- ## Sobre os meus projetos.-->
 
 ## Formações.
 - Cursando Ensino superior no Senac - Analise e Desenvolvimento de Sistemas
