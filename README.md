@@ -34,7 +34,7 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 </div>
 
 ## Formações.
-- Analise e Desenvolvimento de Sistemas (Senac) - 4/5 Semestre. 
+- Análise e Desenvolvimento de Sistemas (Senac) - 4/5 Semestre. 
 - Ensino Medio - Completo.
 
 ## Experiencias.
