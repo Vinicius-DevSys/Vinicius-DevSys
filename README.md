@@ -40,14 +40,14 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 ## Experiencias.
 #### Professor de tecnologia 
 - Presencial (PJ) - 2 anos.
-- EAD (Autonomo) - 6 meses.
+- EAD (Autônomo) - 6 meses.
 
 ## Conhecimentos.
 - Python (Avançado)
 - SQLite (Basico)
 - Bash (Basico)
 - Redes (Basico)
-- Ingles (Basico)
+- Inglês (Basico)
 
 <!--- 3 Cursos da Cisco
 - 2 Cursinhos da Fundação Bradesco-->
