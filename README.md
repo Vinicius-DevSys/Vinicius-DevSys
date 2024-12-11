@@ -46,7 +46,7 @@ Trabalho na área da educação, sou apaixonado por estudos das mais diversas te
 - Bash (Intermediário)
 - Redes (Intermediário)
 - Inglês (Intermediário)
-- Matemática básica
+- Matemática (Intermediário)
 
 <!--- 3 Cursos da Cisco
 - 2 Cursinhos da Fundação Bradesco-->
