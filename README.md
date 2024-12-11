@@ -25,6 +25,7 @@
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/kde connect.png" width="35" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/7-Zip.png" width="60" alt="Descrição da imagem">
 </div>
+
 ## Sobre mim
 Trabalho na area da educação sou apaixonado por estudos das mais diversas tecologia e explorar as possibilidades que cada uma tem a me oferecer e de se integrarem.
 Prefiro criar ferramentas e desenvolver exemplos praticos e funcionais para ajudar alunos e outros desenvolvedores que estão precisando de alguma referencia.
