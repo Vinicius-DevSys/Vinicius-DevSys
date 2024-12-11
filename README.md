@@ -32,7 +32,7 @@ Prefiro criar ferramentas e desenvolver exemplos praticos e funcionais para ajud
 Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois não pretendo atuar com isso. <!-- ## Sobre os meus projetos.-->
 
 ## Formações.
-- Cursando Analise e Desenvolvimento de Sistemas - Ensino superior no Senac
+- Cursando Analise e Desenvolvimento de Sistemas (Senac - 4/5 Semestre) 
 - Ensino Medio - completo
 
 ## Experiencias.
