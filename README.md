@@ -42,7 +42,7 @@ Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois
 - Presencial (PJ) - 2 anos.
 - EAD (Autonomo) - 6 meses.
 
-## Conhecimentos
+## Conhecimentos.
 - Python (Avançado)
 - SQLite (Basico)
 - Bash (Basico)
