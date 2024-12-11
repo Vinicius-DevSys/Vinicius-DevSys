@@ -6,6 +6,7 @@ Prefiro criar ferramentas e desenvolver exemplos praticos e funcionais para ajud
 Confesso que não gosto muito de desenvolvimento web na verdade nem pratico pois não pretendo atuar com isso. <!-- ## Sobre os meus projetos.-->
 
 <div>
+  
 ## Principais tecnologias favoritas.
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/windows.png" width="55" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/tux.png" width="50" alt="Descrição da imagem">
