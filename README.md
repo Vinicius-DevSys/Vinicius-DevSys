@@ -48,6 +48,10 @@ Trabalho na área da educação, sou apaixonado por estudos das mais diversas te
 - Inglês (Intermediário)
 - Matemática (Intermediário)
 
+## Filosofias.
+- Saber usar o Windows não significa que você sabe usar um computador apenas significa que voce sabe usar um sistema operacional.
+- Nada é mais definitivo que uma gambiarra temporaria.
+- Comece onde você esta use o que voce tem e faça o que voce pode.
 <!--- 3 Cursos da Cisco
 - 2 Cursinhos da Fundação Bradesco-->
 
