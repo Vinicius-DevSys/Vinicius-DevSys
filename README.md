@@ -82,3 +82,13 @@ Trabalho na área da educação, sou apaixonado por estudos das mais diversas te
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/kde connect.png" width="35" alt="Descrição da imagem">
 <img src="https://github.com/Vinicius-DevSys/Vinicius-DevSys/blob/main/Icons/7-Zip.png" width="60" alt="Descrição da imagem">
 </div>-->
+```py
+perfil = {
+   "Tecnologias Favoritas": [
+      "Windows", "Linux", "SQL", "Python", "SQL", "Bash", "Git", "Debian", "Manjaro", "SSH", "Rufus", "Balena"
+   ],
+   "Tecnologias Secundarios": [
+       "Firefox", "OBS", "LibreOffice", "Gimp", "Kdenlive", "VLC", "Digikam", "Audacity", "KDE Connect", "7-Zip"
+   ]
+}
+```
