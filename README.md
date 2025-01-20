@@ -40,14 +40,6 @@ Trabalho na área da educação, sou apaixonado por estudos das mais diversas te
 - Presencial (PJ) - 2 anos.
 - EAD (Autônomo) - 6 meses.
 
-## Conhecimentos.
-- Python (Avançado)
-- SQLite (Intermediário)
-- Bash (Intermediário)
-- Redes (Intermediário)
-- Inglês (Intermediário)
-- Matemática (Intermediário)
-
 ## Filosofias.
 - Saber usar o Windows não significa que você sabe usar um computador apenas significa que voce sabe usar um sistema operacional.
 - Nada é mais definitivo que uma gambiarra temporaria.
