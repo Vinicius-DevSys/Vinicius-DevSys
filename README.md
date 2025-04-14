@@ -41,9 +41,10 @@ Trabalho na área da educação, sou apaixonado pelo estudo das mais diversas te
 - EAD (Autônomo) - 6 meses.
 
 ## Filosofias.
-- Saber usar o Windows não significa que você sabe usar um computador apenas significa que voce sabe usar um sistema operacional.
-- Nada é mais definitivo que uma gambiarra temporaria.
-- Comece onde você esta use o que voce tem e faça o que voce pode.
+- Comece de onde você está, use o que você tem e faça o que você pode.
+- Nada é mais definitivo que uma gambiarra temporária.
+- Dominar o Windows não significa dominar um computador, mas apenas conhecer uma das muitas formas de interagir com ele.
+
 <!--- 3 Cursos da Cisco
 - 2 Cursinhos da Fundação Bradesco-->
 
