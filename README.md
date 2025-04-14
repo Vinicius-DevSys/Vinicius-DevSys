@@ -33,7 +33,7 @@ Trabalho na área da educação, sou apaixonado pelo estudo das mais diversas te
 
 ## Formações.
 - Análise e Desenvolvimento de Sistemas (Senac) - 4/5 Semestre. 
-- Ensino Medio - Completo.
+- Ensino Médio - Completo.
 
 ## Experiencias.
 #### Professor de tecnologia 
